@@ -6,3 +6,11 @@
 3. python 基本知识点
 1）语句块概念。如果有行首空白存在，那么，Python 将认为这一行与其他邻近有着相同行首空白的语句同属于一个语句块 —— 而一个语句块必然由一个行末带有冒号 : 的语句起始。同属于一个语句块中的语句，行首空白数量应该相等。
 2）tuple元组概念，代表一个组。
+
+4. controlflow
+    1) Collection-controlled loops
+    2) Condition-controlled loops.
+
+5. function
+    Arguments: Positional Arguments / Keywords Arguments.
+
